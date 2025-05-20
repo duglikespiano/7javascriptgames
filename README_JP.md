@@ -34,3 +34,4 @@
 ### 3. 内容
 
 1. rock paper scissors
+2. memory game
